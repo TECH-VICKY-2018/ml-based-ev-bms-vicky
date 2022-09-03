@@ -22,6 +22,6 @@ Vehicle drivers can foresee their journey.
 
 
 # Install the prerequites before running the codes using :
-'''
+```
 $ pip install -r REQUIREMENTS.txt
-'''
+```
