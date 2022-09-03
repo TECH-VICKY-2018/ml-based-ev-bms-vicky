@@ -19,3 +19,7 @@ incorporated with Battery management systems.
 we proposed a possible solution for estimating SOC through
 Deep learning algorithms with the help of Real-Driving Cycles so that Electric
 Vehicle drivers can foresee their journey.
+
+
+Install the prerequites before running the codes using :
+$ pip install -r REQUIREMENTS.txt
